@@ -1,0 +1,29 @@
+_repo: Miss-Merivale-s-Mistake_8151
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clarke, Henry, Mrs.
+    aliases:
+    - Clarke, Mrs. Henry
+    - Key, Amy
+    birthdate: 1853
+    deathdate: 1908
+    gutenberg_agent_id: '2670'
+    url: http://www.gutenberg.org/2009/agents/2670
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Nieces -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- GITenberg
+title: Miss Merivale's Mistake
+url: http://www.gutenberg.org/ebooks/8151
